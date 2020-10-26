@@ -1,4 +1,4 @@
-# Arquivo .Bat que faz a troca da versão do java na Variavel de ambiemte JAVA_HOME 
+<h2 align="center">Arquivo .Bat que faz a troca da versão do java na variável de ambiemte JAVA_HOME</h2>
 
 ## 💻 Sobre o Arquivo
 

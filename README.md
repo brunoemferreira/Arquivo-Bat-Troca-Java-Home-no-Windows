@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
     <img alt="Logo Java Bat" width="200px" title="#LogoJavaBat" src="./assets/batjava.png" />
-</h1>
+</h2>
 
 <h2 align="center">Troca Java Home</h2>
 

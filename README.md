@@ -1,0 +1,1 @@
+# Arquivo-Bat-Troca-Java-Home-no-Windows

@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="Logo Java Bat" width="200px" title="#LogoJavaBat" src="./assets/javabat.png" />
+</h1>
+
 <h2 align="center">Arquivo .Bat que faz a troca da versão do java na variável de ambiemte JAVA_HOME</h2>
 
 ## 💻 Sobre o Arquivo

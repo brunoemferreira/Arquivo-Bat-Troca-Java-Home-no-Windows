@@ -32,6 +32,7 @@ echo Java 14 ativo.
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+- S.O ser Windows
 - [Git](https://git-scm.com)
 - As versões do Java de sua preferência. Baixe aqui [Java](https://www.java.com/pt-BR/download/)
 - Editor de Código/Texto de sua preferência. Eu uso o [VSCode](https://code.visualstudio.com/)
